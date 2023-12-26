@@ -9,7 +9,7 @@ function app() {
 		drawLuckyNumbers() {
 			let maxDraws = 6,
 				draws = maxDraws,
-				maxNumber = 99,
+				maxNumber = 49,
 				numberPool = [];
 
 			// create number pool
